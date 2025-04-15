@@ -1,16 +1,24 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,100:88d3ce&height=150&section=header&&fontColor=ffffff&fontSize=50&animation=blink&fontAlignY=40)
 
-<!--
-**dannyjoo7/dannyjoo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 기술 스택
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Room-F44336?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dagger-D0A270?style=flat-square&logo=dagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### GitHub 통계
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dannyjoo7&show_icons=true)](https://github.com/dannyjoo7)
+
+### 관련 링크
+
+[![Blog](https://img.shields.io/badge/Blog-dannyjoo.tistory.com-orange)](https://dannyjoo.tistory.com/)
+
+
+### 연락처
+
+[![Email](https://img.shields.io/badge/Email-danny_joo@nave.com-brightgreen)](mailto:danny_joo@nave.com)
