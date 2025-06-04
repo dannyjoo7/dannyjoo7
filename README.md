@@ -18,7 +18,7 @@
 
 [![Blog](https://img.shields.io/badge/Blog-dannyjoo.tistory.com-orange)](https://dannyjoo.tistory.com/)
 
-[![Notion](https://img.shields.io/badge/Notion-dannyjoo.tistory.com-white)](https://www.notion.so/1e45fc00f653806ebc99f84d5b95c596?pvs=4/)
+[![Notion](https://img.shields.io/badge/Notion-dannyjoo-white)](https://www.notion.so/1e45fc00f653806ebc99f84d5b95c596?pvs=4/)
 
 ### 연락처
 
