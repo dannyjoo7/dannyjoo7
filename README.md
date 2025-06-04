@@ -21,4 +21,4 @@
 
 ### 연락처
 
-[![Email](https://img.shields.io/badge/Email-danny_joo@nave.com-brightgreen)](mailto:danny_joo@nave.com)
+[![Email](https://img.shields.io/badge/Email-danny_joo@nave.com-brightgreen)](mailto:danny_joo@naver.com)
