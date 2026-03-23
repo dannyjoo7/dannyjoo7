@@ -74,12 +74,12 @@
 <table>
   <tr>
     <td>
-      <h3>
+      <p>
         <a href="https://github.com/OdraWMS">
-          <img src="https://raw.githubusercontent.com/OdraWMS/.github/main/docs/images/wms_ic.png" width="28" alt="WMS Icon" style="vertical-align: middle;"/>
-          OdraWMS
+          <img src="https://raw.githubusercontent.com/OdraWMS/.github/main/docs/images/wms_ic.png" width="28" alt="WMS Icon"/>
+          <b>OdraWMS</b>
         </a>
-      </h3>
+      </p>
       <p>PDA 기반 물류 창고 관리 시스템 (Warehouse Management System)</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
@@ -95,9 +95,9 @@
   </tr>
   <tr>
     <td>
-      <h3>
-        <a href="https://github.com/dannyjoo7/Dev-Project">Dev-Project</a>
-      </h3>
+      <p>
+        <a href="https://github.com/dannyjoo7/Dev-Project"><b>Dev-Project</b></a>
+      </p>
       <p>개인 학습 및 취미 프로젝트 모음</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
