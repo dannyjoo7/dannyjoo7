@@ -75,10 +75,7 @@
   <tr>
     <td>
       <p>
-        <a href="https://github.com/OdraWMS">
-          <img src="https://raw.githubusercontent.com/OdraWMS/.github/main/docs/images/wms_ic.png" width="28" alt="WMS Icon"/>
-          <b>OdraWMS</b>
-        </a>
+        <a href="https://github.com/OdraWMS"><b>OdraWMS</b></a>
       </p>
       <p>PDA 기반 물류 창고 관리 시스템 (Warehouse Management System)</p>
       <p>
@@ -86,10 +83,9 @@
         <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
       </p>
       <b>담당:</b> Android 앱 + Spring Boot 백엔드 풀스택 개발<br/>
-      <b>주요 기능:</b> 자재(원자재/부자재/완제품/반제품) 입출고 관리, 바코드/QR 스캔, 재고 조회, JWT 인증, 앱 자동 업데이트<br/>
+      <b>주요 기능:</b> 자재(원자재/부자재/완제품/반제품) 입출고 관리, 바코드/QR 스캔, 재고 조회, 앱 자동 업데이트<br/>
       <b>아키텍처:</b> MVVM + Clean Architecture, REST API
     </td>
   </tr>
@@ -100,10 +96,9 @@
       </p>
       <p>개인 학습 및 취미 프로젝트 모음</p>
       <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Windows%20App-0078D4?style=flat-square&logo=windows&logoColor=white"/>
       </p>
       <b>Miruni</b> — 잠금 해제 시 할 일을 알려주는 개인 비서 앱<br/>
       <b>WooDong2</b> — GPS 기반 지역 커뮤니티 앱 (Google Play 출시)<br/>
