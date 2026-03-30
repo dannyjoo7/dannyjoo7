@@ -114,11 +114,12 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dannyjoo7&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/dannyjoo7)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dannyjoo7&theme=tokyonight)](https://github.com/dannyjoo7)
+
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dannyjoo7&theme=tokyonight)](https://github.com/dannyjoo7)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dannyjoo7&theme=tokyonight)](https://github.com/dannyjoo7)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dannyjoo7&theme=tokyonight&hide_border=true)](https://github.com/dannyjoo7)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannyjoo7&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/dannyjoo7)
 
 </div>
 
